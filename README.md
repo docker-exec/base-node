@@ -1,2 +1,3 @@
 # base-node
-Docker base image node & coffeescript
+
+Docker base image for Node JS languages.
